@@ -216,9 +216,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #FF0000;
+  background-color: #3a3bc7;
   cursor: pointer;
-  box-shadow: 0 7px #000000;
+  box-shadow: 0 7px #1a126d;
 }
 
 .message:active {
